@@ -12,20 +12,19 @@ This project is a PHP-based web scraper that:
 ## Folder Structure
 
 project-root/
-├── libraries/
-│ └── simple_html_dom.php # A PHP library for parsing HTML
-├── run.php # Main script to execute
-├── url-products.txt # List of URLs to scrape (one per line)
-├── logs.txt # Log file
-├── products.sqlite # SQLite database file
+├── libraries                   
+    └── simple_html_dom.php     # A PHP library designed for easy parsing and manipulation of HTML documents
+├── run.php                     # Main script to execute
+├── url-products.txt            # List of URLs to scrape (one per line)
+├── logs.txt                    # Log file
+├── products.sqlite             # SQLite database file
 └── src/
-└── service/
-├── Database.php # Handles DB connection and saving data
-├── Fetcher.php # Handles HTTP requests via cURL
-├── Logger.php # File for logs
-├── Parser.php # Parses data using simple_html_dom
-├── ScraperServise.php # Main scraper class with retry logic
-
+    └── service/
+        └── Database.php        # Handles DB connection and saving data
+        ├── Fetcher.php         # Handles HTTP requests via cURL
+        ├── Logger.php          # File for logs
+        ├── Parser.php          # Parse data using the simple_html_dom library
+        ├── ScraperServise.php  # Main scraper class with retry logic
 
 
 ## How to Run the Script from the Terminal
