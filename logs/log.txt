@@ -1,30 +1,30 @@
-[2025-07-31 00:58:33] Bringing data from URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
-[2025-07-31 00:58:35] Bringing data from URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
-[2025-07-31 00:58:36] Bringing data from URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
-[2025-07-31 00:58:37] Bringing data from URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
-[2025-07-31 00:58:39] Bringing data from URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
-[2025-07-31 00:58:39] Bringing data from URL: https://www.kotsovolos.gr/mobile-phones-gps/mobile-phones/smartphones/325556-smartphone-samsung-fold-7-1tb-black-5g
-[2025-07-31 00:58:40] Missing fields (title, price, availability) from URL: https://www.kotsovolos.gr/mobile-phones-gps/mobile-phones/smartphones/325556-smartphone-samsung-fold-7-1tb-black-5g
-[2025-07-31 00:58:40] Bringing data from URL: https://webscraper.io/test-sites/e-commerce/allinone/product/132
-[2025-07-31 00:58:41] Missing fields (title, price, availability) from URL: https://webscraper.io/test-sites/e-commerce/allinone/product/132
-[2025-07-31 11:10:24] Bringing data from URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
-[2025-07-31 11:10:25] Retry fetch attempt 2 for URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
-[2025-07-31 11:10:27] Failed to fetch after retries: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
-[2025-07-31 11:10:27] Bringing data from URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
-[2025-07-31 11:10:28] Retry fetch attempt 2 for URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
-[2025-07-31 11:10:30] Failed to fetch after retries: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
-[2025-07-31 11:10:30] Bringing data from URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
-[2025-07-31 11:10:31] Retry fetch attempt 2 for URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
-[2025-07-31 11:10:32] Failed to fetch after retries: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
-[2025-07-31 11:10:32] Bringing data from URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
-[2025-07-31 11:10:34] Retry fetch attempt 2 for URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
-[2025-07-31 11:10:35] Failed to fetch after retries: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
-[2025-07-31 11:10:35] Bringing data from URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
-[2025-07-31 11:10:37] Retry fetch attempt 2 for URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
-[2025-07-31 11:10:38] Failed to fetch after retries: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
-[2025-07-31 11:10:38] Bringing data from URL: https://www.kotsovolos.gr/mobile-phones-gps/mobile-phones/smartphones/325556-smartphone-samsung-fold-7-1tb-black-5g
-[2025-07-31 11:10:39] Retry fetch attempt 2 for URL: https://www.kotsovolos.gr/mobile-phones-gps/mobile-phones/smartphones/325556-smartphone-samsung-fold-7-1tb-black-5g
-[2025-07-31 11:10:40] Failed to fetch after retries: https://www.kotsovolos.gr/mobile-phones-gps/mobile-phones/smartphones/325556-smartphone-samsung-fold-7-1tb-black-5g
-[2025-07-31 11:10:40] Bringing data from URL: https://webscraper.io/test-sites/e-commerce/allinone/product/132
-[2025-07-31 11:10:42] Retry fetch attempt 2 for URL: https://webscraper.io/test-sites/e-commerce/allinone/product/132
-[2025-07-31 11:10:43] Failed to fetch after retries: https://webscraper.io/test-sites/e-commerce/allinone/product/132
+[2025-07-31 11:49:47] Bringing data from URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+[2025-07-31 11:49:48] Bringing data from URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+[2025-07-31 11:49:49] Bringing data from URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+[2025-07-31 11:49:50] Bringing data from URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+[2025-07-31 11:49:50] Bringing data from URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+[2025-07-31 11:49:51] Bringing data from URL: https://www.kotsovolos.gr/mobile-phones-gps/mobile-phones/smartphones/325556-smartphone-samsung-fold-7-1tb-black-5g
+[2025-07-31 11:49:53] Missing fields (title, price, availability) from URL: https://www.kotsovolos.gr/mobile-phones-gps/mobile-phones/smartphones/325556-smartphone-samsung-fold-7-1tb-black-5g
+[2025-07-31 11:49:53] Bringing data from URL: https://webscraper.io/test-sites/e-commerce/allinone/product/132
+[2025-07-31 11:49:53] Missing fields (title, price, availability) from URL: https://webscraper.io/test-sites/e-commerce/allinone/product/132
+[2025-07-31 11:50:27] Bringing data from URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+[2025-07-31 11:50:28] Retry fetch attempt 2 for URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+[2025-07-31 11:50:30] Failed to fetch after retries: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+[2025-07-31 11:50:30] Bringing data from URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+[2025-07-31 11:50:31] Retry fetch attempt 2 for URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+[2025-07-31 11:50:33] Failed to fetch after retries: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+[2025-07-31 11:50:33] Bringing data from URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+[2025-07-31 11:50:34] Retry fetch attempt 2 for URL: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+[2025-07-31 11:50:35] Failed to fetch after retries: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+[2025-07-31 11:50:35] Bringing data from URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+[2025-07-31 11:50:37] Retry fetch attempt 2 for URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+[2025-07-31 11:50:38] Failed to fetch after retries: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+[2025-07-31 11:50:38] Bringing data from URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+[2025-07-31 11:50:40] Retry fetch attempt 2 for URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+[2025-07-31 11:50:41] Failed to fetch after retries: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+[2025-07-31 11:50:41] Bringing data from URL: https://www.kotsovolos.gr/mobile-phones-gps/mobile-phones/smartphones/325556-smartphone-samsung-fold-7-1tb-black-5g
+[2025-07-31 11:50:42] Retry fetch attempt 2 for URL: https://www.kotsovolos.gr/mobile-phones-gps/mobile-phones/smartphones/325556-smartphone-samsung-fold-7-1tb-black-5g
+[2025-07-31 11:50:43] Failed to fetch after retries: https://www.kotsovolos.gr/mobile-phones-gps/mobile-phones/smartphones/325556-smartphone-samsung-fold-7-1tb-black-5g
+[2025-07-31 11:50:43] Bringing data from URL: https://webscraper.io/test-sites/e-commerce/allinone/product/132
+[2025-07-31 11:50:44] Retry fetch attempt 2 for URL: https://webscraper.io/test-sites/e-commerce/allinone/product/132
+[2025-07-31 11:50:45] Failed to fetch after retries: https://webscraper.io/test-sites/e-commerce/allinone/product/132

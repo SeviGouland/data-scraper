@@ -9,7 +9,7 @@ class Fetcher
         $ch = curl_init($url);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); // return the response as a string
         curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
-        // curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false); // disable SSL verification
+        curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false); // disable SSL verification
         curl_setopt($ch, CURLOPT_TIMEOUT, 10); // timeout after 10 seconds
 
         // execute the cURL session

@@ -17,7 +17,6 @@ class Database
 
     private function initTable(): void
     {
-        date_default_timezone_set('Europe/Athens');
         $this->pdo->exec("CREATE TABLE IF NOT EXISTS products (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             url TEXT UNIQUE,
@@ -32,15 +31,26 @@ class Database
     public function save(string $url, array $data): void
     {
         try {
-            $stmt = $this->pdo->prepare("INSERT OR REPLACE INTO products (url, title, price, availability) VALUES (:url, :title, :price, :availability)");
+            // set timezone to Athens to ensure 'scraped_at' stores the current local time
+            date_default_timezone_set('Europe/Athens');
+
+            $stmt = $this->pdo->prepare("
+            INSERT OR REPLACE INTO products 
+            (url, title, price, availability, scraped_at)
+            VALUES 
+            (:url, :title, :price, :availability, :scraped_at)
+        ");
+
             $stmt->execute([
                 ':url' => $url,
                 ':title' => $data['title'],
                 ':price' => $data['price'],
                 ':availability' => $data['availability'],
+                ':scraped_at' => date('Y-m-d H:i:s'),
             ]);
         } catch (PDOException $e) {
             throw $e;
         }
     }
+
 }
